@@ -1,0 +1,9 @@
+{
+  "name": "Valley Bites Bakers & Fast Foods",
+  "short_name": "Valley Bites",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#071b2b",
+  "theme_color": "#081b2b",
+  "description": "Valley Bites Bakers & Fast Foods in Barikot, Swat."
+}
