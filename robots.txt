@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://valley-bites.vercel.app/sitemap.xml
+Sitemap: https://valleybite.vercel.app/sitemap.xml
